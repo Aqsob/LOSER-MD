@@ -55,8 +55,8 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 143
                     }
                 }
@@ -135,8 +135,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: "𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿",
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: "LOSER-MD",
                         serverMessageId: 143
                     }
                 }
@@ -194,15 +194,15 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/80ntso.jpg` },
+                image: { url: `https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 144
                     }
                 }
@@ -277,15 +277,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/80ntso.jpg` },
+                image: { url: `https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: 'ₘᵤZₐₘₘᵢₗ_ₘD',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 143
                     }
                 }
@@ -355,15 +355,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/80ntso.jpg` },
+                image: { url: `https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 143
                     }
                 }
@@ -422,15 +422,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/80ntso.jpg` },
+                image: { url: `https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 143
                     }
                 }
@@ -493,15 +493,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/80ntso.jpg` },
+                image: { url: `https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 143
                     }
                 }
@@ -545,15 +545,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/80ntso.jpg` },
+                image: { url: `https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 143
                     }
                 }
@@ -604,15 +604,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/80ntso.jpg` },
+                image: { url: `https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 143
                     }
                 }
@@ -665,15 +665,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/80ntso.jpg` },
+                image: { url: `https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 143
                     }
                 }
@@ -734,15 +734,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/80ntso.jpg` },
+                image: { url: `https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 143
                     }
                 }
@@ -793,15 +793,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/80ntso.jpg` },
+                image: { url: `https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
-                        newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                        newsletterName: 'LOSER-MD',
                         serverMessageId: 143
                     }
                 }
