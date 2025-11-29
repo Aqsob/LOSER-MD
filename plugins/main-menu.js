@@ -22,7 +22,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• 👑 Owner : *${config.OWNER_NAME}*
 ┃◈┃• ⚙️ Prefix : *[${config.PREFIX}]*
 ┃◈┃• 🌐 Platform : *Heroku*
-┃◈┃• 📦 Version : *4.0.0*
+┃◈┃• 📦 Version : *2.0.0*
 ┃◈┃• ⏱️ Runtime : *${runtime(process.uptime())}*
 ┃◈╰─────────────────┈⊷
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
@@ -346,14 +346,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/80ntso.jpg' },
+                image: { url: config.MENU_IMAGE_URL || 'https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg' },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363403831162407@newsletter',
+                        newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
                         newsletterName: config.BOT_NAME,
                         serverMessageId: 143
                     }
