@@ -43,15 +43,15 @@ Powered By *๓นຊค๓๓il_๓໓* 💜`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
-            image: { url: `https://files.catbox.moe/80ntso.jpg` },  // Image URL
+            image: { url:`https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg` },  // Image URL
             caption: formattedCode,
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363403831162407@newsletter',
-                    newsletterName: 'ꪑꪊɀꪖꪑꪑﺃꪶ_ꪑᦔ',
+                    newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                    newsletterName: 'LOSER-MD',
                     serverMessageId: 143
                 }
             }
