@@ -18,7 +18,7 @@ async (conn, mek, m, { from, sender, reply }) => {
 │✨ *Bot is Active & Online!*
 │
 │🧠 *Owner:* ${config.OWNER_NAME}
-│⚡ *Version:* 4.0.0
+│⚡ *Version:* 2.0.0
 │📝 *Prefix:* [${config.PREFIX}]
 │📳 *Mode:* [${config.MODE}]
 │💾 *RAM:* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}MB
@@ -35,8 +35,8 @@ async (conn, mek, m, { from, sender, reply }) => {
                 forwardingScore: 1000,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363403831162407@newsletter',
-                    newsletterName: '𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇_𝙈𝘿',
+                    newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                    newsletterName: 'LOSER-MD',
                     serverMessageId: 143
                 }
             }
