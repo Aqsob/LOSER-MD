@@ -47,7 +47,7 @@ LOSER-MD
 ---
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg](https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg)" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="(https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg)" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
