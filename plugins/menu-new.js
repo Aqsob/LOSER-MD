@@ -405,8 +405,8 @@ Example: Reply "5" for AI Menu
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363403831162407@newsletter',
-                newsletterName: "𝙈𝙐𝙕𝘼𝙈𝙈𝙄𝙇-𝙈𝘿",
+                newsletterJid: '0029Vb6u4UZ1dAw78zbIiL1h@newsletter',
+                newsletterName: "LOSER-MD",
                 serverMessageId: 143
             }
         };
