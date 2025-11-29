@@ -98,7 +98,7 @@ cmd({
         });
 
         await conn.sendMessage(from, {
-            image: { url: "https://files.catbox.moe/lcpy9f.jpg" },
+            image: { url: "https://ik.imagekit.io/shaban/SHABAN-1762853368090_s74A3vGMT.jpg" },
             caption: msg
         }, { quoted: mek });
     } catch (err) {
